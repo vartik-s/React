@@ -1,3 +1,5 @@
+### Note: Create your own API at unsplash developer. I have deleted the API app and thus my API key would not work.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
